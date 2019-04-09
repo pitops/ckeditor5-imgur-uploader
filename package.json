@@ -1,0 +1,9 @@
+{
+  "name": "ckeditor5-imgur-uploader",
+  "version": "0.0.1",
+  "description": "Ckeditor5 customer uploader for imgur",
+  "main": "index.js",
+  "repository": "git@github.com:pitops/ckeditor5-imgur-uploader.git",
+  "author": "Petros Kyriakou",
+  "license": "MIT"
+}
